@@ -43,11 +43,7 @@ mod tests {
     fn generate_alphabetic_report_card() {
         // TODO: Make sure to change the grade here after you finish the exercise.
         let report_card = ReportCard {
-<<<<<<< HEAD
-            grade: 2.1,
-=======
             grade: "A+",
->>>>>>> 622f149cd871335dab95466dbca9fa439b2747e3
             student_name: "Gary Plotter".to_string(),
             student_age: 11,
         };
